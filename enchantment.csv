@@ -1,0 +1,65 @@
+Registry Name,ID,Name,Type,Min Level,Max Level,Rarity,Slots,Class
+minecraft:protection,0,enchantment.protect.all,ARMOR,1,1,COMMON,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentProtection
+minecraft:fire_protection,1,enchantment.protect.fire,ARMOR,1,1,UNCOMMON,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentProtection
+minecraft:feather_falling,2,enchantment.protect.fall,ARMOR_FEET,1,1,UNCOMMON,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentProtection
+minecraft:blast_protection,3,enchantment.protect.explosion,ARMOR,1,1,RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentProtection
+minecraft:projectile_protection,4,enchantment.protect.projectile,ARMOR,1,1,UNCOMMON,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentProtection
+minecraft:respiration,5,enchantment.oxygen,ARMOR_HEAD,1,1,RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentOxygen
+minecraft:aqua_affinity,6,enchantment.waterWorker,ARMOR_HEAD,1,1,RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentWaterWorker
+minecraft:thorns,7,enchantment.thorns,ARMOR_CHEST,1,1,VERY_RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentThorns
+minecraft:depth_strider,8,enchantment.waterWalker,ARMOR_FEET,1,1,RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentWaterWalker
+minecraft:frost_walker,9,enchantment.frostWalker,ARMOR_FEET,1,1,RARE,feet,net.minecraft.enchantment.EnchantmentFrostWalker
+minecraft:binding_curse,10,enchantment.binding_curse,WEARABLE,1,1,VERY_RARE,"head, chest, legs, feet",net.minecraft.enchantment.EnchantmentBindingCurse
+draconicevolution:enchant_reaper,11,enchantment.draconicevolution.reaperEnchant,WEAPON,1,1,RARE,"mainhand, offhand",com.brandon3055.draconicevolution.magic.EnchantmentReaper
+extrautils2:xu.kaboomerang,12,enchantment.xu.kaboomerang,BOOMERANG,1,1,COMMON,"mainhand, offhand",com.rwtema.extrautils2.enchants.BoomerangEnchantment
+extrautils2:xu.zoomerang,13,enchantment.xu.zoomerang,BOOMERANG,1,1,COMMON,"mainhand, offhand",com.rwtema.extrautils2.enchants.BoomerangEnchantment
+extrautils2:xu.burnerang,14,enchantment.xu.burnerang,BOOMERANG,1,1,COMMON,"mainhand, offhand",com.rwtema.extrautils2.enchants.BoomerangEnchantment
+extrautils2:xu.bladerang,15,enchantment.xu.bladerang,BOOMERANG,1,1,COMMON,"mainhand, offhand",com.rwtema.extrautils2.enchants.BoomerangEnchantment
+minecraft:sharpness,16,enchantment.damage.all,WEAPON,1,1,COMMON,mainhand,net.minecraft.enchantment.EnchantmentDamage
+minecraft:smite,17,enchantment.damage.undead,WEAPON,1,1,UNCOMMON,mainhand,net.minecraft.enchantment.EnchantmentDamage
+minecraft:bane_of_arthropods,18,enchantment.damage.arthropods,WEAPON,1,1,UNCOMMON,mainhand,net.minecraft.enchantment.EnchantmentDamage
+minecraft:knockback,19,enchantment.knockback,WEAPON,1,1,UNCOMMON,mainhand,net.minecraft.enchantment.EnchantmentKnockback
+minecraft:fire_aspect,20,enchantment.fire,WEAPON,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentFireAspect
+minecraft:looting,21,enchantment.lootBonus,WEAPON,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentLootBonus
+minecraft:sweeping,22,enchantment.sweeping,WEAPON,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentSweepingEdge
+extrautils2:xu.boomereaperang,23,enchantment.xu.boomereaperang,BOOMERANG,1,1,COMMON,"mainhand, offhand",com.rwtema.extrautils2.enchants.BoomerangEnchantment
+openblocks:explosive,24,enchantment.openblocks.explosive,ARMOR,1,1,RARE,"feet, legs, chest, head",openblocks.enchantments.EnchantmentExplosive
+openblocks:last_stand,25,enchantment.openblocks.laststand,ARMOR,1,1,UNCOMMON,"feet, legs, chest, head",openblocks.enchantments.EnchantmentLastStand
+openblocks:flim_flam,26,enchantment.openblocks.flimflam,ALL,1,1,RARE,"feet, legs, chest, head, mainhand",openblocks.enchantments.EnchantmentFlimFlam
+projectred-expansion:electric_efficiency,27,enchantment.projectred.expansion.fuelEfficiency,ALL,1,1,RARE,"mainhand, offhand, feet, legs, chest, head",mrtjp.projectred.expansion.EnchantmentElectricEfficiency
+endercore:autosmelt,28,enchantment.autosmelt,EC_AUTOSMELT,1,1,RARE,mainhand,com.enderio.core.common.enchant.EnchantAutoSmelt
+endercore:xpboost,29,enchantment.xpboost,EC_XPBOOST,1,1,UNCOMMON,"mainhand, offhand",com.enderio.core.common.enchant.EnchantXPBoost
+enderio:shimmer,30,enchantment.enderio.shimmer,ALL,1,1,VERY_RARE,"mainhand, offhand, feet, legs, chest, head",crazypants.enderio.base.enchantment.EnchantmentShimmer
+enderio:soulbound,31,enchantment.enderio.soulbound,EC_REALLY_ALL,1,1,VERY_RARE,"mainhand, offhand, feet, legs, chest, head",crazypants.enderio.base.enchantment.EnchantmentSoulBound
+minecraft:efficiency,32,enchantment.digging,DIGGER,1,1,COMMON,mainhand,net.minecraft.enchantment.EnchantmentDigging
+minecraft:silk_touch,33,enchantment.untouching,DIGGER,1,1,VERY_RARE,mainhand,net.minecraft.enchantment.EnchantmentUntouching
+minecraft:unbreaking,34,enchantment.durability,BREAKABLE,1,1,UNCOMMON,mainhand,net.minecraft.enchantment.EnchantmentDurability
+minecraft:fortune,35,enchantment.lootBonusDigger,DIGGER,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentLootBonus
+enderio:witherweapon,36,enchantment.enderio.witherweapon,WEAPON,1,1,UNCOMMON,"mainhand, offhand",crazypants.enderio.base.enchantment.EnchantmentWitherWeapon
+enderio:witherarrow,37,enchantment.enderio.witherarrow,BOW,1,1,UNCOMMON,mainhand,crazypants.enderio.base.enchantment.EnchantmentWitherArrow
+enderio:repellent,38,enchantment.enderio.repellent,ARMOR,1,1,VERY_RARE,"chest, legs, feet",crazypants.enderio.base.enchantment.EnchantmentRepellent
+bibliocraft:bibliocraft.deathcompassench,39,Eternal Compass,ALL,1,1,VERY_RARE,"mainhand, offhand",jds.bibliocraft.enchantments.EnchantmentDeathCompass
+bibliocraft:bibliocraft.readingench,40,Reading,ARMOR_HEAD,1,1,UNCOMMON,head,jds.bibliocraft.enchantments.EnchantmentReading
+exnihilocreatio:sieve_efficiency,41,enchantment.sieve_efficiency,DIGGER,1,1,COMMON,mainhand,exnihilocreatio.enchantments.EnchantmentEfficiency
+exnihilocreatio:sieve_fortune,42,enchantment.sieve_fortune,DIGGER,1,1,RARE,mainhand,exnihilocreatio.enchantments.EnchantmentFortune
+exnihilocreatio:sieve_luck_of_the_sea,43,enchantment.sieve_luck_of_the_sea,DIGGER,1,1,RARE,mainhand,exnihilocreatio.enchantments.EnchantmentLuckOfTheSea
+abyssalcraft:coralium,44,enchantment.abyssalcraft.coralium,WEAPON,1,1,RARE,mainhand,com.shinoow.abyssalcraft.common.enchantments.EnchantmentWeaponInfusion
+abyssalcraft:dread,45,enchantment.abyssalcraft.dread,WEAPON,1,1,RARE,mainhand,com.shinoow.abyssalcraft.common.enchantments.EnchantmentWeaponInfusion
+abyssalcraft:light_pierce,46,enchantment.abyssalcraft.light_pierce,WEAPON,1,1,COMMON,mainhand,com.shinoow.abyssalcraft.common.enchantments.EnchantmentLightPierce
+abyssalcraft:iron_wall,47,enchantment.abyssalcraft.iron_wall,ARMOR_CHEST,1,1,UNCOMMON,chest,com.shinoow.abyssalcraft.common.enchantments.EnchantmentIronWall
+minecraft:power,48,enchantment.arrowDamage,BOW,1,1,COMMON,mainhand,net.minecraft.enchantment.EnchantmentArrowDamage
+minecraft:punch,49,enchantment.arrowKnockback,BOW,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentArrowKnockback
+minecraft:flame,50,enchantment.arrowFire,BOW,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentArrowFire
+minecraft:infinity,51,enchantment.arrowInfinite,BOW,1,1,VERY_RARE,mainhand,net.minecraft.enchantment.EnchantmentArrowInfinite
+cofhcore:holding,52,enchantment.cofhcore.holding,ALL,1,1,UNCOMMON,"mainhand, offhand, feet, legs, chest, head",cofh.core.enchantment.EnchantmentHolding
+cofhcore:insight,53,enchantment.cofhcore.insight,DIGGER,1,1,UNCOMMON,mainhand,cofh.core.enchantment.EnchantmentInsight
+cofhcore:leech,54,enchantment.cofhcore.leech,WEAPON,1,1,UNCOMMON,mainhand,cofh.core.enchantment.EnchantmentLeech
+cofhcore:multishot,55,enchantment.cofhcore.multishot,BOW,1,1,UNCOMMON,mainhand,cofh.core.enchantment.EnchantmentMultishot
+cofhcore:smashing,56,enchantment.cofhcore.smashing,DIGGER,1,1,RARE,"mainhand, offhand, feet, legs, chest, head",cofh.core.enchantment.EnchantmentSmashing
+cofhcore:smelting,57,enchantment.cofhcore.smelting,DIGGER,1,1,RARE,"mainhand, offhand, feet, legs, chest, head",cofh.core.enchantment.EnchantmentSmelting
+cofhcore:soulbound,58,enchantment.cofhcore.soulbound,ALL,1,1,UNCOMMON,"mainhand, offhand, feet, legs, chest, head",cofh.core.enchantment.EnchantmentSoulbound
+cofhcore:vorpal,59,enchantment.cofhcore.vorpal,WEAPON,1,1,RARE,mainhand,cofh.core.enchantment.EnchantmentVorpal
+minecraft:luck_of_the_sea,61,enchantment.lootBonusFishing,FISHING_ROD,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentLootBonus
+minecraft:lure,62,enchantment.fishingSpeed,FISHING_ROD,1,1,RARE,mainhand,net.minecraft.enchantment.EnchantmentFishingSpeed
+minecraft:mending,70,enchantment.mending,BREAKABLE,1,1,RARE,"mainhand, offhand, feet, legs, chest, head",net.minecraft.enchantment.EnchantmentMending
+minecraft:vanishing_curse,71,enchantment.vanishing_curse,ALL,1,1,VERY_RARE,"mainhand, offhand, feet, legs, chest, head",net.minecraft.enchantment.EnchantmentVanishingCurse
